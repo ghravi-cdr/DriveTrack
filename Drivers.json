@@ -1,0 +1,1200 @@
+[{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c441"
+  },
+  "DriverName": "Allu Srinivas",
+  "LicenseNumber": "APLIC001",
+  "LicenseExpiryDate": {
+    "$date": "2026-05-20T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500001",
+  "Address": "Allu Vari Street, Vijayawada",
+  "ExperienceYears": 5,
+  "Specialization": "HEAVY_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Reliable driver",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c423"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.397Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c424"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.397Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c442"
+  },
+  "DriverName": "Marri Ramesh",
+  "LicenseNumber": "APLIC002",
+  "LicenseExpiryDate": {
+    "$date": "2025-12-15T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500002",
+  "Address": "Marri Colony, Guntur",
+  "ExperienceYears": 10,
+  "Specialization": "LIGHT_VEHICLES",
+  "Status": "OFF_DUTY",
+  "Remarks": "Part-time",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c425"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.397Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c426"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.397Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c443"
+  },
+  "DriverName": "Kothapalli Ravi",
+  "LicenseNumber": "APLIC003",
+  "LicenseExpiryDate": {
+    "$date": "2024-09-10T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500003",
+  "Address": "Kothapalli Street, Tirupati",
+  "ExperienceYears": 15,
+  "Specialization": "VIP_DUTY",
+  "Status": "ON_LEAVE",
+  "Remarks": "Assigned to MLA convoy",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c427"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c428"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c444"
+  },
+  "DriverName": "Venkata Krishna",
+  "LicenseNumber": "APLIC004",
+  "LicenseExpiryDate": {
+    "$date": "2027-01-05T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500004",
+  "Address": "Ram Nagar, Visakhapatnam",
+  "ExperienceYears": 7,
+  "Specialization": "EMERGENCY_RESPONSE",
+  "Status": "ON_DUTY",
+  "Remarks": "Trained ambulance driver",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c429"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c42a"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c445"
+  },
+  "DriverName": "Pilla Subbarao",
+  "LicenseNumber": "APLIC005",
+  "LicenseExpiryDate": {
+    "$date": "2026-07-19T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500005",
+  "Address": "Pilla Vari Peta, Ongole",
+  "ExperienceYears": 4,
+  "Specialization": "ESCORT",
+  "Status": "ON_DUTY",
+  "Remarks": "Security escort duty",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c42b"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c42c"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c446"
+  },
+  "DriverName": "Guttula Venkatesh",
+  "LicenseNumber": "APLIC006",
+  "LicenseExpiryDate": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500006",
+  "Address": "RTC Colony, Rajahmundry",
+  "ExperienceYears": 3,
+  "Specialization": "OTHER",
+  "Status": "OFF_DUTY",
+  "Remarks": "Temporary contract",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c42d"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c42e"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": false,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c447"
+  },
+  "DriverName": "Lanka Nagaraju",
+  "LicenseNumber": "APLIC007",
+  "LicenseExpiryDate": {
+    "$date": "2028-11-11T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500007",
+  "Address": "Lanka Street, Kurnool",
+  "ExperienceYears": 20,
+  "Specialization": "HEAVY_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Truck fleet lead",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c42f"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c430"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c448"
+  },
+  "DriverName": "Krishna Srinu",
+  "LicenseNumber": "APLIC008",
+  "LicenseExpiryDate": {
+    "$date": "2029-03-20T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500008",
+  "Address": "Krishna Nagar, Anantapur",
+  "ExperienceYears": 12,
+  "Specialization": "VIP_DUTY",
+  "Status": "ON_LEAVE",
+  "Remarks": "High-profile duty",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c431"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c432"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c449"
+  },
+  "DriverName": "Kona Ramesh",
+  "LicenseNumber": "APLIC009",
+  "LicenseExpiryDate": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500009",
+  "Address": "Kona Vari Street, Nellore",
+  "ExperienceYears": 6,
+  "Specialization": "EMERGENCY_RESPONSE",
+  "Status": "ON_DUTY",
+  "Remarks": "Fire brigade team",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c433"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c434"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c44a"
+  },
+  "DriverName": "Marri Nagamani",
+  "LicenseNumber": "APLIC010",
+  "LicenseExpiryDate": {
+    "$date": "2025-08-09T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500010",
+  "Address": "Marri Vari Street, Kadapa",
+  "ExperienceYears": 8,
+  "Specialization": "ESCORT",
+  "Status": "OFF_DUTY",
+  "Remarks": "Police escort",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c435"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c436"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": false,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c44b"
+  },
+  "DriverName": "Allu Venkatesh",
+  "LicenseNumber": "APLIC011",
+  "LicenseExpiryDate": {
+    "$date": "2026-06-11T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500011",
+  "Address": "Allu Street, Amaravati",
+  "ExperienceYears": 14,
+  "Specialization": "LIGHT_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Government staff duty",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c437"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c438"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c44c"
+  },
+  "DriverName": "Kona Lakshmi",
+  "LicenseNumber": "APLIC012",
+  "LicenseExpiryDate": {
+    "$date": "2027-04-12T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500012",
+  "Address": "Kona Vari Street, Eluru",
+  "ExperienceYears": 9,
+  "Specialization": "OTHER",
+  "Status": "ON_DUTY",
+  "Remarks": "School bus driver",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c439"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c43a"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c44d"
+  },
+  "DriverName": "Pilla Ravi",
+  "LicenseNumber": "APLIC013",
+  "LicenseExpiryDate": {
+    "$date": "2026-02-22T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500013",
+  "Address": "Pilla Nagar, Ongole",
+  "ExperienceYears": 6,
+  "Specialization": "HEAVY_VEHICLES",
+  "Status": "OFF_DUTY",
+  "Remarks": "Assigned lorry duty",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c43b"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c43c"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c44e"
+  },
+  "DriverName": "Lanka Venkata Rao",
+  "LicenseNumber": "APLIC014",
+  "LicenseExpiryDate": {
+    "$date": "2028-08-18T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500014",
+  "Address": "Lanka Vari Street, Kakinada",
+  "ExperienceYears": 11,
+  "Specialization": "VIP_DUTY",
+  "Status": "ON_DUTY",
+  "Remarks": "Collector duty",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c43d"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c43e"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4356b4e9381993f54c44f"
+  },
+  "DriverName": "Marri Padma",
+  "LicenseNumber": "APLIC015",
+  "LicenseExpiryDate": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500015",
+  "Address": "Marri Colony, Chittoor",
+  "ExperienceYears": 5,
+  "Specialization": "ESCORT",
+  "Status": "ON_LEAVE",
+  "Remarks": "Escort duty leave",
+  "CreatedBy": {
+    "$oid": "68a4356b4e9381993f54c43f"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4356b4e9381993f54c440"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:27:23.398Z"
+  },
+  "IsActive": false,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c482"
+  },
+  "DriverName": "Jonnalagadda Raju",
+  "LicenseNumber": "APLIC016",
+  "LicenseExpiryDate": {
+    "$date": "2028-02-18T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500016",
+  "Address": "Jonnalagadda Street, Guntur",
+  "ExperienceYears": 18,
+  "Specialization": "HEAVY_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Fleet supervisor",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c450"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c451"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c483"
+  },
+  "DriverName": "Velagapudi Lakshman",
+  "LicenseNumber": "APLIC017",
+  "LicenseExpiryDate": {
+    "$date": "2026-11-23T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500017",
+  "Address": "Velagapudi Secretariat, Amaravati",
+  "ExperienceYears": 7,
+  "Specialization": "ESCORT",
+  "Status": "OFF_DUTY",
+  "Remarks": "VIP escort standby",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c452"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c453"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": false,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c484"
+  },
+  "DriverName": "Mandapati Suresh",
+  "LicenseNumber": "APLIC018",
+  "LicenseExpiryDate": {
+    "$date": "2027-09-05T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500018",
+  "Address": "Mandapati Street, Eluru",
+  "ExperienceYears": 5,
+  "Specialization": "OTHER",
+  "Status": "ON_DUTY",
+  "Remarks": "College bus driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c454"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c455"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c485"
+  },
+  "DriverName": "Kandula Srinivas",
+  "LicenseNumber": "APLIC019",
+  "LicenseExpiryDate": {
+    "$date": "2024-10-30T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500019",
+  "Address": "Kandula Street, Kadapa",
+  "ExperienceYears": 16,
+  "Specialization": "EMERGENCY_RESPONSE",
+  "Status": "ON_DUTY",
+  "Remarks": "Fire service driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c456"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c457"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c486"
+  },
+  "DriverName": "Adusumilli Lakshmi",
+  "LicenseNumber": "APLIC020",
+  "LicenseExpiryDate": {
+    "$date": "2029-06-01T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500020",
+  "Address": "Adusumilli Vari Street, Tenali",
+  "ExperienceYears": 3,
+  "Specialization": "LIGHT_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Taxi driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c458"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c459"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c487"
+  },
+  "DriverName": "Gade Raghava",
+  "LicenseNumber": "APLIC021",
+  "LicenseExpiryDate": {
+    "$date": "2025-07-12T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500021",
+  "Address": "Gade Street, Nellore",
+  "ExperienceYears": 8,
+  "Specialization": "HEAVY_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Container truck driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c45a"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c45b"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c488"
+  },
+  "DriverName": "Mopidevi Anil Kumar",
+  "LicenseNumber": "APLIC022",
+  "LicenseExpiryDate": {
+    "$date": "2027-03-14T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500022",
+  "Address": "Mopidevi Colony, Krishna District",
+  "ExperienceYears": 12,
+  "Specialization": "VIP_DUTY",
+  "Status": "ON_LEAVE",
+  "Remarks": "Driver for minister, on medical leave",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c45c"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c45d"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c489"
+  },
+  "DriverName": "Duggirala Prasad",
+  "LicenseNumber": "APLIC023",
+  "LicenseExpiryDate": {
+    "$date": "2026-08-18T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500023",
+  "Address": "Duggirala Market, Guntur",
+  "ExperienceYears": 6,
+  "Specialization": "ESCORT",
+  "Status": "ON_DUTY",
+  "Remarks": "Escort driver, police assignment",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c45e"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c45f"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c48a"
+  },
+  "DriverName": "Penmetsa Kiran",
+  "LicenseNumber": "APLIC024",
+  "LicenseExpiryDate": {
+    "$date": "2024-11-05T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500024",
+  "Address": "Penmetsa Colony, Vizianagaram",
+  "ExperienceYears": 14,
+  "Specialization": "EMERGENCY_RESPONSE",
+  "Status": "ON_DUTY",
+  "Remarks": "Ambulance duty",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c460"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c461"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c48b"
+  },
+  "DriverName": "Chebolu Satish",
+  "LicenseNumber": "APLIC025",
+  "LicenseExpiryDate": {
+    "$date": "2028-01-01T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500025",
+  "Address": "Chebolu Street, Kakinada",
+  "ExperienceYears": 10,
+  "Specialization": "HEAVY_VEHICLES",
+  "Status": "OFF_DUTY",
+  "Remarks": "Truck fleet driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c462"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c463"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.756Z"
+  },
+  "IsActive": false,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c48c"
+  },
+  "DriverName": "Mandava Rajesh",
+  "LicenseNumber": "APLIC026",
+  "LicenseExpiryDate": {
+    "$date": "2026-04-17T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500026",
+  "Address": "Mandava Road, Vijayawada",
+  "ExperienceYears": 5,
+  "Specialization": "LIGHT_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Taxi driver in Vijayawada city",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c464"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c465"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c48d"
+  },
+  "DriverName": "Nallamothu Sridevi",
+  "LicenseNumber": "APLIC027",
+  "LicenseExpiryDate": {
+    "$date": "2027-06-30T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500027",
+  "Address": "Nallamothu Street, Rajahmundry",
+  "ExperienceYears": 4,
+  "Specialization": "OTHER",
+  "Status": "ON_DUTY",
+  "Remarks": "School van driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c466"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c467"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c48e"
+  },
+  "DriverName": "Karuturi Venkatesh",
+  "LicenseNumber": "APLIC028",
+  "LicenseExpiryDate": {
+    "$date": "2025-09-19T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500028",
+  "Address": "Karuturi Nagar, Eluru",
+  "ExperienceYears": 9,
+  "Specialization": "ESCORT",
+  "Status": "ON_DUTY",
+  "Remarks": "Police patrol duty",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c468"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c469"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c48f"
+  },
+  "DriverName": "Bhupatiraju Harish",
+  "LicenseNumber": "APLIC029",
+  "LicenseExpiryDate": {
+    "$date": "2029-02-22T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500029",
+  "Address": "Bhupatiraju Street, Vizag",
+  "ExperienceYears": 13,
+  "Specialization": "VIP_DUTY",
+  "Status": "ON_DUTY",
+  "Remarks": "Collector convoy driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c46a"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c46b"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c490"
+  },
+  "DriverName": "Kotagiri Sudhakar",
+  "LicenseNumber": "APLIC030",
+  "LicenseExpiryDate": {
+    "$date": "2026-12-29T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500030",
+  "Address": "Kotagiri Colony, Anantapur",
+  "ExperienceYears": 7,
+  "Specialization": "HEAVY_VEHICLES",
+  "Status": "OFF_DUTY",
+  "Remarks": "Spare lorry driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c46c"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c46d"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c491"
+  },
+  "DriverName": "Boppana Venu",
+  "LicenseNumber": "APLIC031",
+  "LicenseExpiryDate": {
+    "$date": "2025-05-15T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500031",
+  "Address": "Boppana Street, Tenali",
+  "ExperienceYears": 11,
+  "Specialization": "LIGHT_VEHICLES",
+  "Status": "ON_LEAVE",
+  "Remarks": "Medical leave",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c46e"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c46f"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c492"
+  },
+  "DriverName": "Avanthi Chaitanya",
+  "LicenseNumber": "APLIC032",
+  "LicenseExpiryDate": {
+    "$date": "2026-10-10T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500032",
+  "Address": "Avanthi Nagar, Vizag",
+  "ExperienceYears": 9,
+  "Specialization": "VIP_DUTY",
+  "Status": "ON_DUTY",
+  "Remarks": "VIP personal driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c470"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c471"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c493"
+  },
+  "DriverName": "Pamidimukkala Lakshmi",
+  "LicenseNumber": "APLIC033",
+  "LicenseExpiryDate": {
+    "$date": "2027-02-20T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500033",
+  "Address": "Pamidimukkala Mandal, Krishna",
+  "ExperienceYears": 6,
+  "Specialization": "OTHER",
+  "Status": "ON_DUTY",
+  "Remarks": "Private school van",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c472"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c473"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c494"
+  },
+  "DriverName": "Bhumireddy Naresh",
+  "LicenseNumber": "APLIC034",
+  "LicenseExpiryDate": {
+    "$date": "2025-08-22T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500034",
+  "Address": "Bhumireddy Street, Kurnool",
+  "ExperienceYears": 15,
+  "Specialization": "HEAVY_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Experienced truck driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c474"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c475"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c495"
+  },
+  "DriverName": "Gollapudi Sravani",
+  "LicenseNumber": "APLIC035",
+  "LicenseExpiryDate": {
+    "$date": "2028-11-19T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500035",
+  "Address": "Gollapudi, Vijayawada",
+  "ExperienceYears": 4,
+  "Specialization": "LIGHT_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Lady auto driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c476"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c477"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c496"
+  },
+  "DriverName": "Kalidindi Ramu",
+  "LicenseNumber": "APLIC036",
+  "LicenseExpiryDate": {
+    "$date": "2026-03-08T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500036",
+  "Address": "Kalidindi Mandal, West Godavari",
+  "ExperienceYears": 20,
+  "Specialization": "EMERGENCY_RESPONSE",
+  "Status": "ON_DUTY",
+  "Remarks": "Senior ambulance driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c478"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c479"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c497"
+  },
+  "DriverName": "Sabbisetti Kumar",
+  "LicenseNumber": "APLIC037",
+  "LicenseExpiryDate": {
+    "$date": "2029-01-05T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500037",
+  "Address": "Sabbisetti Vari Street, Vizag",
+  "ExperienceYears": 8,
+  "Specialization": "ESCORT",
+  "Status": "ON_DUTY",
+  "Remarks": "Police escort driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c47a"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c47b"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c498"
+  },
+  "DriverName": "Nemani Venkata Rao",
+  "LicenseNumber": "APLIC038",
+  "LicenseExpiryDate": {
+    "$date": "2025-06-17T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500038",
+  "Address": "Nemani Street, Bhimavaram",
+  "ExperienceYears": 12,
+  "Specialization": "VIP_DUTY",
+  "Status": "ON_LEAVE",
+  "Remarks": "VIP convoy driver on leave",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c47c"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c47d"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c499"
+  },
+  "DriverName": "Rayapati Madhavi",
+  "LicenseNumber": "APLIC039",
+  "LicenseExpiryDate": {
+    "$date": "2027-12-28T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500039",
+  "Address": "Rayapati Colony, Guntur",
+  "ExperienceYears": 5,
+  "Specialization": "LIGHT_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "City taxi driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c47e"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c47f"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "68a4368d4e9381993f54c49a"
+  },
+  "DriverName": "Yarlagadda Phani",
+  "LicenseNumber": "APLIC040",
+  "LicenseExpiryDate": {
+    "$date": "2028-09-21T00:00:00.000Z"
+  },
+  "ContactNumber": "9876500040",
+  "Address": "Yarlagadda Nagar, Vijayawada",
+  "ExperienceYears": 17,
+  "Specialization": "HEAVY_VEHICLES",
+  "Status": "ON_DUTY",
+  "Remarks": "Container lorry driver",
+  "CreatedBy": {
+    "$oid": "68a4368d4e9381993f54c480"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "UpdatedBy": {
+    "$oid": "68a4368d4e9381993f54c481"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-19T08:32:13.757Z"
+  },
+  "IsActive": true,
+  "isDeleted": false
+}]
