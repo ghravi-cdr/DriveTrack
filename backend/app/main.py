@@ -10,6 +10,7 @@ origins = [
     os.getenv("FRONTEND_ORIGIN2", "http://127.0.0.1:5173"),
     os.getenv("FRONTEND_ORIGIN3", "http://localhost:5174"),
     os.getenv("FRONTEND_ORIGIN4", "http://127.0.0.1:5174"),
+    os.getenv("FRONTEND_ORIGIN5", "https://drivetrack.netlify.app"),
 ]
 # CORS
 app.add_middleware(
